@@ -1,4 +1,5 @@
-- 复刷leetcode hot 100 、leetcode 周赛
-- 看java面试指南
-- 看技术派、pmHub开篇架构和面试指南
+- 记忆mysql、redis
 - 想项目亮点、记忆八股文
+- 复刷leetcode hot 100 、leetcode 周赛
+- 看技术派、pmHub开篇架构和面试指南
+- ~~看java面试指南~~
