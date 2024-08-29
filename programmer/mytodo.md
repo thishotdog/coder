@@ -1,4 +1,4 @@
-- leetcode hot 100 复刷、leetcode 周赛
+- 复刷leetcode hot 100 、leetcode 周赛
 - 看java面试指南
 - 看技术派、pmHub开篇架构和面试指南
 - 想项目亮点、记忆八股文
