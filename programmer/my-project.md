@@ -44,6 +44,9 @@
 
 **关键技术：Java、SpringBoot、Redis、高并发、RocketMQ、Mysql**
 
+> - 消息一般会考虑的问题
+> - 多发少发
+
 ---
 
 ### chatBilibili
