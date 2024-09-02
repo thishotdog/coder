@@ -25,12 +25,12 @@
 
 **关键技术：Java、分布式锁、分布式事务、SpringBoot、Redis、RokectMQ、线程池、容错性、稳定性等**
 
-> 宁夏回族自治区：720万人
-> 山西省县级市永济：近40万人
-> 山西省运城市稷山县：近32万人
-> mysql单表压测性能：https://blog.csdn.net/qq_16471893/article/details/107542885
-> 为何hbase写入快：https://blog.51cto.com/u_13446/8500475
-> https://zhuanlan.zhihu.com/p/296789365
+> 宁夏回族自治区：720万人  
+> 山西省县级市永济：近40万人  
+> 山西省运城市稷山县：近32万人  
+> mysql单表压测性能：https://blog.csdn.net/qq_16471893/article/details/107542885  
+> 为何hbase写入快：https://blog.51cto.com/u_13446/8500475  
+> https://zhuanlan.zhihu.com/p/296789365  
 
 >  - 参数校验来源多扯一点
 >  - 1.0往2.0迁移Hbase
